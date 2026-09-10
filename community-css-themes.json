@@ -5139,5 +5139,12 @@
     "repo": "ramenofficialgovpatsy/Cooper-Rose",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
-  }
+  },
+  {
+  "name": "HTB HUD",
+  "author": "DR4V3N1X (YO)",
+  "repo": "NUMBER-Zero/obsidian-htb-hud",
+  "screenshot": "screenshot.png",
+  "modes": ["dark"]
+}
 ]
